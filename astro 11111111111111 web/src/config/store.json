@@ -1,0 +1,45 @@
+{
+  "storeName": "Astro",
+  "storeTagline": "Mobile Legends & Free Fire Top-up Center",
+  "logoUrl": "https://raw.githubusercontent.com/Mengly08/astro/refs/heads/main/IMG_9668.PNG",
+  "faviconUrl": "https://raw.githubusercontent.com/Cheagjihvg/feliex-assets/refs/heads/main/favicon.ico",
+  "backgroundImageUrl": "https://raw.githubusercontent.com/Mengly08/astro/refs/heads/main/photo_2025-04-02_20-29-13.jpg",
+  "banners": {
+    "banner1": "https://raw.githubusercontent.com/Mengly08/astro/refs/heads/main/IMG_9672.jpg"
+  },
+  "popupBanner": {
+    "image": "https://raw.githubusercontent.com/Mengly08/astro/refs/heads/main/IMG_9672.jpg",
+    "enabled": true
+  },
+  "supportUrl": "https://t.me/AstroTopUpGame",
+  "channelUrl": "https://t.me/AstroTopUpGame",
+  "games": {
+    "mlbb": {
+      "name": "Mobile Legends",
+      "tagline": "Diamonds & Weekly Pass",
+      "logoUrl": "https://raw.githubusercontent.com/Cheagjihvg/feliex-assets/refs/heads/main/IMG_1324.JPG"
+    },
+    "freefire": {
+      "name": "Free Fire",
+      "tagline": "Diamonds & Special Items",
+      "logoUrl": "https://raw.githubusercontent.com/Cheagjihvg/feliex-assets/refs/heads/main/IMG_1225.JPG"
+    }
+  },
+  "payment": {
+    "khqr": {
+      "accountId": "seng_vydevid@aclb",
+      "accountName": "Astro Store",
+      "accountInformation": "34670417145214",
+      "currency": "USD",
+      "address": "PhnomPenh"
+    }
+  },
+  "colors": {
+    "primary": "yellow",
+    "secondary": "emerald",
+    "accent": "yellow"
+  },
+  "footer": {
+    "copyright": "© 2025 Astro store. All rights reserved, Devloped by @Mengly_DVP"
+  }
+}
